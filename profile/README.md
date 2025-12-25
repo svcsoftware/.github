@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="https://youtube.com/@oktaysavci" target="_blank">
+    <a href="https://youtube.com/@svcsoftware" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
     <a href="https://instagram.com/svc_software" target="_blank">
